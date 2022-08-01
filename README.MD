@@ -4,7 +4,7 @@ A System.out.println(); wrapper that allows you to output colored text.
 
 ## Maven Installation
 
-```java
+```xml
 
 <repository>
   <id>reposilite-repository</id>
