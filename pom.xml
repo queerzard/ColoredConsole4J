@@ -24,11 +24,6 @@
 
     </dependencies>
 
-    <distributionManagement>
-        <repository>
-            <id>McSilentDE</id>
-            <url>http://mcsilent.de:8091/releases</url>
-        </repository>
-    </distributionManagement>
+
 
 </project>
